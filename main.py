@@ -27,4 +27,4 @@ for event in longpoll.listen():
                 sender(id, 'вечер в хату, ' + a[0]['first_name'])
 
 
-"Хаю Хай!"
+"Хаю Хай! С вами ИванГай"
