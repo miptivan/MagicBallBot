@@ -25,3 +25,6 @@ for event in longpoll.listen():
                 a = userinfo(id)
                 print(a)
                 sender(id, 'вечер в хату, ' + a[0]['first_name'])
+
+
+"Хаю Хай!"
